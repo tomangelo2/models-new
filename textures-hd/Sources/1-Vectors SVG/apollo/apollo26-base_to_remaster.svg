@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="120"
+   height="60"
+   id="svg2">
+  <metadata
+     id="metadata73">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <polygon
+       points="0.16245985,0 -0.16245985,0 0,-0.5 "
+       transform="scale(0.0616,0.0616)"
+       id="pt"
+       style="fill:#ffffff" />
+    <g
+       id="star">
+      <use
+         transform="matrix(-0.80901699,-0.58778525,0.58778525,-0.80901699,0,0)"
+         id="use8"
+         x="0"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#pt" />
+      <use
+         transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,0,0)"
+         id="use10"
+         x="0"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#pt" />
+      <use
+         id="use12"
+         x="0"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#pt" />
+      <use
+         transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,0,0)"
+         id="use14"
+         x="0"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#pt" />
+      <use
+         transform="matrix(-0.80901699,0.58778525,-0.58778525,-0.80901699,0,0)"
+         id="use16"
+         x="0"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#pt" />
+    </g>
+    <g
+       id="s5">
+      <use
+         id="use19"
+         x="-0.252"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#star" />
+      <use
+         id="use21"
+         x="-0.126"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#star" />
+      <use
+         id="use23"
+         x="0"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#star" />
+      <use
+         id="use25"
+         x="0.126"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#star" />
+      <use
+         id="use27"
+         x="0.252"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#star" />
+    </g>
+    <g
+       id="s6">
+      <use
+         id="use30"
+         x="-0.063000001"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#s5" />
+      <use
+         id="use32"
+         x="0.315"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#star" />
+    </g>
+    <g
+       id="x4">
+      <use
+         id="use35"
+         x="0"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#s6" />
+      <use
+         id="use37"
+         x="0"
+         y="0.054000001"
+         width="1235"
+         height="650"
+         xlink:href="#s5" />
+      <use
+         id="use39"
+         x="0"
+         y="0.108"
+         width="1235"
+         height="650"
+         xlink:href="#s6" />
+      <use
+         id="use41"
+         x="0"
+         y="0.162"
+         width="1235"
+         height="650"
+         xlink:href="#s5" />
+    </g>
+    <g
+       id="u">
+      <use
+         id="use44"
+         x="0"
+         y="-0.21600001"
+         width="1235"
+         height="650"
+         xlink:href="#x4" />
+      <use
+         id="use46"
+         x="0"
+         y="0"
+         width="1235"
+         height="650"
+         xlink:href="#x4" />
+      <use
+         id="use48"
+         x="0"
+         y="0.21600001"
+         width="1235"
+         height="650"
+         xlink:href="#s6" />
+    </g>
+    <rect
+       width="1235"
+       height="50"
+       x="0"
+       y="0"
+       id="stripe"
+       style="fill:#b22234" />
+  </defs>
+  <rect
+     width="119.9954"
+     height="59.996796"
+     x="0.0049803318"
+     y="0.0044403323"
+     id="rect51"
+     style="fill:#ffffff" />
+  <use
+     transform="matrix(0.09716227,0,0,0.09230276,0.00497809,0.0044231)"
+     id="use53"
+     x="0"
+     y="0"
+     width="1235"
+     height="650"
+     xlink:href="#stripe" />
+  <use
+     transform="matrix(0.09716227,0,0,0.09230276,0.00497809,0.0044231)"
+     id="use55"
+     x="0"
+     y="100"
+     width="1235"
+     height="650"
+     xlink:href="#stripe" />
+  <use
+     transform="matrix(0.09716227,0,0,0.09230276,0.00497809,0.0044231)"
+     id="use57"
+     x="0"
+     y="200"
+     width="1235"
+     height="650"
+     xlink:href="#stripe" />
+  <use
+     transform="matrix(0.09716227,0,0,0.09230276,0.00497809,0.0044231)"
+     id="use59"
+     x="0"
+     y="300"
+     width="1235"
+     height="650"
+     xlink:href="#stripe" />
+  <use
+     transform="matrix(0.09716227,0,0,0.09230276,0.00497809,0.0044231)"
+     id="use61"
+     x="0"
+     y="400"
+     width="1235"
+     height="650"
+     xlink:href="#stripe" />
+  <use
+     transform="matrix(0.09716227,0,0,0.09230276,0.00497809,0.0044231)"
+     id="use63"
+     x="0"
+     y="500"
+     width="1235"
+     height="650"
+     xlink:href="#stripe" />
+  <use
+     transform="matrix(0.09716227,0,0,0.09230276,0.00497809,0.0044231)"
+     id="use65"
+     x="0"
+     y="600"
+     width="1235"
+     height="650"
+     xlink:href="#stripe" />
+  <rect
+     width="47.998161"
+     height="32.305965"
+     x="0.0049803318"
+     y="0.0044403323"
+     id="rect67"
+     style="fill:#3c3b6e" />
+  <use
+     transform="matrix(63.155476,0,0,59.996794,24.00406,16.157402)"
+     id="use69"
+     x="0"
+     y="0"
+     width="1235"
+     height="650"
+     xlink:href="#u" />
+</svg>
