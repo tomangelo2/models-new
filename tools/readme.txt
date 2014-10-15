@@ -1,9 +1,12 @@
 Instrukcja:
 
 Dla każdego systemu są osobne narzędzia, także skrypty (różnice w kodowaniu znaków).
+
 Jak używać każdego z narzędzi:
+
 Każde obsługiwane jest z wiersza poleceń (terminal w Linux, cmd lub msys w Windows).
-[*]convert_model (dla obu systemów identycznie)
+
+convert_model (dla obu systemów niemal identycznie, jednak w przypadku systemów Windows zamiast ./convert_model piszemy convert_model.exe)
 	"Usage:
 
 	 Convert files:
@@ -30,14 +33,11 @@ Wymagany jest Python 3, skrypt nie działa na Python 2.
 	#       output.txt      output file
 	#       1               output version (1 - with LOD, 2 - without LOD)
 "
-obj2txt_lin i obj2txt_lin2 różnią się tym, że lin2 obsługuje state i nie ma hardkodowanych wartości oświetlenia (chociaż wkrótce będzie to zmienione, zaciemnia to modele).
 
 konwertuj.sh służy wyłącznie do zautomatyzowania 2 poprzednich skryptów.
 Użycie:
 "
 	./konwertuj.sh <nazwa_pliku_bez_rozszerzenia>
 "
-konwertuj2.sh robi to samo, lecz zamiast obj2txt_lin wykorzystuje obj2txt_lin2
 
-Z konwertuj_win.sh można korzystać wyłącznie poprzez konsolę msys
-That's all, folks :P
+Skrypt konwertuj_win.sh wykorzystuje funkcje powłoki bash, więc do działania wymaga konsoli msys (nie twierdzę, że tylko w msys, być może cygwin czy inne tego typu programy także będą działać, jednak nie testowałem na nich tego skryptu).
