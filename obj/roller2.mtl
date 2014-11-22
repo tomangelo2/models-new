@@ -1,7 +1,7 @@
 # Blender MTL File: 'roller2.blend'
 # Material Count: 2
 
-newmtl ColobotMesh_mat_1
+newmtl ColobotMesh_mat_1_[256]
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.800000 0.800000 0.800000
@@ -11,7 +11,7 @@ d 0.000000
 illum 2
 map_Kd lemt.png
 
-newmtl ColobotMesh_mat_1_roller.png
+newmtl ColobotMesh_mat_1_[256]_roller.png
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.800000 0.800000 0.800000

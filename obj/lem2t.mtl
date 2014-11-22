@@ -1,7 +1,7 @@
-# Blender MTL File: 'None'
+# Blender MTL File: 'lem2t.blend'
 # Material Count: 2
 
-newmtl ColobotMesh_mat_1
+newmtl ColobotMesh_mat_1_[256]
 Ns 96.078431
 Ka 0.000000 0.000000 0.000000
 Kd 0.800000 0.800000 0.800000
