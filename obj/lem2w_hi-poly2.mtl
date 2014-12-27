@@ -1,0 +1,22 @@
+# Blender MTL File: 'lem2w_hi-poly2.blend'
+# Material Count: 2
+
+newmtl Rubber
+Ns 382.690676
+Ka 0.000000 0.000000 0.000000
+Kd 0.021651 0.032274 0.034800
+Ks 0.240640 0.240640 0.240640
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lemt.png
+
+newmtl aluminium_galvanized
+Ns 154.901961
+Ka 0.000000 0.000000 0.000000
+Kd 0.630300 0.630300 0.630300
+Ks 0.901774 0.957451 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lemt.png

@@ -1,0 +1,42 @@
+# Blender MTL File: 'barrier1_hi.blend'
+# Material Count: 4
+
+newmtl Blue_Plate
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd subm.png
+
+newmtl ColobotMesh_mat_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd subm.png
+
+newmtl ColobotMesh_mat_2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd lemt.png
+
+newmtl acrylic_glass
+Ns 498.039216
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.000000
+Ks 0.800000 0.700000 0.700000
+Ni 1.500000
+d 0.500000
+illum 2
+map_Kd subm.png
