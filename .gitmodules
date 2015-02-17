@@ -1,0 +1,3 @@
+[submodule "tools/Colobot-Model-Converter"]
+	path = tools/Colobot-Model-Converter
+	url = https://github.com/tomaszkax86/Colobot-Model-Converter.git
