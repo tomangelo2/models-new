@@ -1,32 +1,35 @@
 # Blender MTL File: 'human2c1.blend'
 # Material Count: 3
 
-newmtl ColobotMesh_mat_1_[4096]
-Ns 96.078431
-Ka 0.500000 0.500000 0.500000
-Kd 0.800000 0.800000 0.800000
+newmtl Material_[2]
+Ns 7.843137
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.800000 0.000000
 Ks 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
+Ni 1.500000
+d 1.000000
 illum 2
 map_Kd human.png
+map_Ka human.png
 
-newmtl ColobotMesh_mat_2_[2]
-Ns 96.078431
-Ka 0.500000 0.500000 0.500000
-Kd 0.800000 0.800000 0.800000
+newmtl Material_[4096]
+Ns 7.843137
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.800000 0.000000
 Ks 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
+Ni 1.500000
+d 1.000000
 illum 2
 map_Kd human.png
+map_Ka human.png
 
-newmtl ColobotMesh_mat_3
-Ns 96.078431
-Ka 0.500000 0.500000 0.500000
-Kd 0.800000 0.800000 0.800000
-Ks 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
+newmtl Mat�riau__1.005
+Ns 21.568627
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.000000 0.000000
+Ks 0.022500 0.022500 0.022500
+Ni 1.500000
+d 1.000000
 illum 2
 map_Kd face01.png
+map_Ka face01.png
