@@ -1,18 +1,7 @@
 # Blender MTL File: 'bag.blend'
-# Material Count: 4
+# Material Count: 7
 
-newmtl ColobotMesh_mat_1
-Ns 96.078431
-Ka 0.500000 0.500000 0.500000
-Kd 0.800000 0.800000 0.800000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd human.png
-
-newmtl ColobotMesh_mat_1_lemt.png
+newmtl ColobotMesh_mat_1.001
 Ns 96.078431
 Ka 0.500000 0.500000 0.500000
 Kd 0.800000 0.800000 0.800000
@@ -23,7 +12,40 @@ d 0.000000
 illum 2
 map_Kd lemt.png
 
-newmtl ColobotMesh_mat_2
+newmtl ColobotMesh_mat_1.002
+Ns 96.078431
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd human.png
+
+newmtl ColobotMesh_mat_1.003
+Ns 96.078431
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd lemt.png
+
+newmtl ColobotMesh_mat_1.004
+Ns 96.078431
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd human.png
+
+newmtl ColobotMesh_mat_2.001
 Ns 96.078431
 Ka 0.500000 0.500000 0.500000
 Kd 0.800000 0.800000 0.800000
@@ -34,7 +56,7 @@ d 0.000000
 illum 2
 map_Kd factory.png
 
-newmtl ColobotMesh_mat_4
+newmtl ColobotMesh_mat_4.001
 Ns 96.078431
 Ka 0.500000 0.500000 0.500000
 Kd 0.800000 0.800000 0.800000
@@ -44,3 +66,15 @@ Ni 1.000000
 d 0.000000
 illum 2
 map_Kd roller.png
+
+newmtl Material__21.004
+Ns 7.843137
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd human.png
+map_Ka human.png
