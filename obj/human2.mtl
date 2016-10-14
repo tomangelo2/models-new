@@ -1,5 +1,5 @@
-# Blender MTL File: 'human2c1.blend'
-# Material Count: 1
+# Blender MTL File: 'human2.blend'
+# Material Count: 3
 
 newmtl Material_[2]
 Ns 94.117647
@@ -11,4 +11,28 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd human.png
-map_Ka human.png
+map_Ka  human.png
+
+newmtl Material_[4096]
+Ns 7.843137
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd human.png
+map_Ka  human.png
+
+newmtl Mat�riau__26.005
+Ns 7.843137
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd human.png
+map_Ka  human.png
