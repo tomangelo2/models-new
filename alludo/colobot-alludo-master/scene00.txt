@@ -1,2 +1,0 @@
-Title.P text="Alludo" resume="Alludo"
-Title.E text="Alludo" resume="Alludo"
