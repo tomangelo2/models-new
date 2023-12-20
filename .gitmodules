@@ -1,6 +1,6 @@
 [submodule "Colobot-Model-Converter"]
 	path = Colobot-Model-Converter
-	url = git://github.com/tomaszkax86/Colobot-Model-Converter.git
+	url = https://github.com/tomaszkax86/Colobot-Model-Converter.git
 [submodule "colobot-alludo"]
 	path = colobot-alludo
 	url = https://github.com/MrSimbax/colobot-alludo
